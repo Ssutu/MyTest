@@ -7,3 +7,7 @@
 ###### B111118301 司徒嘉略
 
 # :smile: :bicyclist:
+
+---
+
+![NKUST](logo.png "NKUST")
